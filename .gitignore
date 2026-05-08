@@ -1,0 +1,17 @@
+# emacs
+*~
+*\#
+
+# LaTeX
+*.tex
+*.log
+*.aux
+*.cls
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+
+# Tools
+*.sh
